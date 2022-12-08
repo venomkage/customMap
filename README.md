@@ -16,14 +16,14 @@ Put runThis.apk in your device and enjoy!
 
 Below are the screenshots of the app:-
 
-<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481940.png' height='50%' width='50%'>
+<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481940.png' height='25%' width='25%'>
 
-<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481947.png' height='50%' width='50%'>
+<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481947.png' height='25%' width='25%'>
 
-<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481983.png' height='50%' width='50%'>
+<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481983.png' height='25%' width='25%'>
 
-<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481951.png' height='50%' width='50%'>
+<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481951.png' height='25%' width='25%'>
 
-<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481954.png' height='50%' width='50%'>
+<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481954.png' height='25%' width='25%'>
 
-<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481958.png' height='50%' width='50%'>
+<img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481958.png' height='25%' width='25%'>
