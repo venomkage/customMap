@@ -16,14 +16,18 @@ Put runThis.apk in your device and enjoy!
 
 Below are the screenshots of the app:-
 
+<div style="display:flex;justify-content:space-around;align-item:'center;">
 <img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481940.png' height='25%' width='25%'>
 
 <img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481947.png' height='25%' width='25%'>
 
 <img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481983.png' height='25%' width='25%'>
+</div>
 
+<div style="display:flex;justify-content:space-around">
 <img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481951.png' height='25%' width='25%'>
 
 <img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481954.png' height='25%' width='25%'>
 
 <img alt='ss1' src='./src/workingScreenshots/Screenshot_1670481958.png' height='25%' width='25%'>
+</div>
