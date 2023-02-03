@@ -14,7 +14,7 @@ Step 4: npx react-native run-android
 
 Put runThis.apk in your device and enjoy!
 
-*Demo URL - https://www.youtube.com/shorts/ykJnEpYPgsM*
+**📼 Demo URL - https://www.youtube.com/shorts/ykJnEpYPgsM**
 
 Below are the screenshots of the app:-
 
